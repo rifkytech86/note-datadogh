@@ -135,4 +135,3 @@ Result like
 
    <img src="screen/datadog_logs.png" width="350" alt="accessibility text">
 
-git remote add notes-datadogh git@github.com:rifkytech86/note-datadogh.git
